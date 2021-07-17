@@ -1,5 +1,13 @@
 # cryptonomicon
 
+## Pre-setup
+
+Get your API-key from: https://www.cryptocompare.com/
+Create config.js file at /src and write there:
+```
+export const API_KEY = "YOUR_KEY"
+```
+
 ## Project setup
 ```
 npm install
